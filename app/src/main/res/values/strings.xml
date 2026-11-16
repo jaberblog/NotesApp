@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دفتر یادداشت</string>
+    <string name="search_hint">جستجو در یادداشت‌ها…</string>
+    <string name="title_hint">عنوان</string>
+    <string name="content_hint">متن یادداشت…</string>
+    <string name="empty">هنوز یادداشتی ندارید.\nبا دکمه + اولین یادداشت را بنویسید.</string>
+    <string name="add_note">افزودن یادداشت</string>
+    <string name="untitled">بدون عنوان</string>
+    <string name="delete">حذف</string>
+    <string name="cancel">انصراف</string>
+    <string name="delete_title">حذف یادداشت</string>
+    <string name="delete_message">این یادداشت برای همیشه حذف شود؟</string>
+</resources>
